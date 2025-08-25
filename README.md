@@ -30,3 +30,12 @@ En esta base de datos se encontrarán datos como lo son:
 
 
 De las cuáles se les estarán aplicando dos métodos para seleccionar las variables más significativas y comparando estos resultados para ver cuál métodología nos sirve de mejor manera en este caso.
+
+
+Este proyecto incluye los siguientes documentos:
+
+ [Proyecto en formato ipynb](https://github.com/Mariajulia17/SELECCION-DE-CARACTERISTICAS/blob/19dcd526a3f309aa31d0140d5d8fd814bec5fd51/Tarea4N.ipynb)
+
+ [Proyecto en formato HTML](https://github.com/Mariajulia17/SELECCION-DE-CARACTERISTICAS/blob/19dcd526a3f309aa31d0140d5d8fd814bec5fd51/Tarea4N.html)
+
+ [Base de datos](https://github.com/Mariajulia17/SELECCION-DE-CARACTERISTICAS/blob/19dcd526a3f309aa31d0140d5d8fd814bec5fd51/VinoTinto.csv)
